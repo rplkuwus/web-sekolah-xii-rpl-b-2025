@@ -1,0 +1,88 @@
+/* style body*/ 
+ body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serifm;
+  margin: 0;
+  padding: 0; 
+  background-color: rgb(252, 248, 255);
+
+}
+
+/*style header*/
+header{
+ background-color:rgb(5, 191, 197);
+ color: rgb(216, 233, 217);
+ padding: 20px; 
+ text-align: center;
+ 
+}
+
+/*style nav ul*/
+nav ul{
+ list-style:none ;
+ padding: 0;
+}
+
+/* style nav ul li*/
+nav ul li {
+  display:inline;
+  margin: 10px;
+}
+
+/*style nav ul li a*/
+nav ul li a{
+color: rgb(255, 255, 255);
+text-decoration:none ;
+
+}
+/*style section*/
+section{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ padding: 20px;
+ background-color: rgb(196, 245, 248);
+ margin: 20px; border-radius: 10px;
+ 
+}
+/*style footer*/
+footer{
+  text-align: center;
+  padding: 10px;
+  background-color: rgb(221, 233, 218);
+}
+
+/*style haver link menu*/
+a:link, a:visited {
+  color: rgb(202, 240, 221);
+  border:1px solid white;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+
+}
+a:hover, a:active{
+  background-color: dodgerblue;
+  color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

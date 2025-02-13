@@ -1,0 +1,56 @@
+ /*style body*/
+ body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin:0;
+    padding:0;
+    background-color: aqua;
+}
+
+/*style header*/
+header{
+    background-color: darkblue;
+    color: bisque;
+    padding: 20px;text-align: center;
+
+}
+/*style nav ul*/
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+/*style nav ul*/
+nav ul li{
+    display:inline ;
+    margin: 10px;
+}
+/*style nav ul li a*/
+nav ul li a{
+    color: blueviolet;
+    text-decoration: brown;
+}
+/* style secation*/
+section{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 20px;
+    background-color: chartreuse;
+    margin: 20px;border-radius: 10px;
+}
+/*style footer*/
+footer{
+    text-align: center;
+    padding: 10px;
+    background-color: azure;
+}
+/*style haver  link menu*/
+a:link, a:visited{
+    color: rgb(0, 255, 179);
+    border: 1px solid;color: aqua;
+    padding:10px 20px ;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+a:hover, a:active{
+    background-color: dodgerblue;
+    color: chocolate;
+}
